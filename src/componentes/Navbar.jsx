@@ -12,6 +12,7 @@ export default class Navbar extends React.Component {
                     </Menu>
                 }
                 style={{backgroundColor:'black', position: "fixed" }}
+                //a
                 iconElementLeft={
                     <img src='http://blog.queimadiaria.com/wp-content/uploads/2017/11/logo_queimadiaria_branca.png' className="App-logo" alt="logo" />}
             >
